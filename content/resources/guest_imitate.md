@@ -1,9 +1,14 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-756-writing-and-reading-poems-fall-2006/95bd92a1dd2561185db7e68fa6cc0b35_guest_imitate.pdf
+file: /media/courses/21w-756-writing-and-reading-poems-fall-2006/95bd92a1dd2561185db7e68fa6cc0b35_guest_imitate.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: guest_imitate.pdf
+type: OCWFile
 uid: 95bd92a1-dd25-6118-5db7-e68fa6cc0b35
 ---

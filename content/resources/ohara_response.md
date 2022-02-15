@@ -1,9 +1,14 @@
 ---
 content_type: resource
 description: This resource contains students respons to the poem "The Day Lady Died."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-756-writing-and-reading-poems-fall-2006/8dcdb78f9a5bfc9b4cd5ef4b7200789a_ohara_response.pdf
+file: /media/courses/21w-756-writing-and-reading-poems-fall-2006/8dcdb78f9a5bfc9b4cd5ef4b7200789a_ohara_response.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ohara_response.pdf
+type: OCWFile
 uid: 8dcdb78f-9a5b-fc9b-4cd5-ef4b7200789a
 ---
