@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This section includes course description, readings, grading criteria,
+  attendance, conferences, plagiarism and a calendar covering week's topics and key
+  dates.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: e21f8a70-5f4c-1efa-6772-35dd73f3a88a
 ---
 

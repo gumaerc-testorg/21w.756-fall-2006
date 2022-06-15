@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section includes links to more information about the poets covered
+  in this course.
 learning_resource_types: []
+ocw_type: ''
 title: Related Resources
-type: CourseSection
 uid: b6a23fed-cbeb-ecd9-c20b-1bd1951538ea
 ---
 

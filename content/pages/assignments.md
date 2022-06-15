@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section includes the course assignments.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: 6fd431a8-37e7-1ece-6681-f813ff39b361
 ---
 
@@ -98,7 +99,7 @@ You may write more than one poem but you must imitate Creeley's use of speech. T
 
 ### Student Work
 
-Creeley Imitation by Lauren Tashima ([PDF]({{< baseurl >}}/resources/creeley_imitate))
+Creeley Imitation by Lauren Tashima ({{% resource_link 8f791f12-86b2-bd09-13cc-95ebd91c51d6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -130,7 +131,7 @@ Guest's language is more abstract than either Olson or Creeley's. It is this qua
 
 ### Student Work
 
-Guest imitation by C. Kiersten Pollard ([PDF]({{< baseurl >}}/resources/guest_imitate))
+Guest imitation by C. Kiersten Pollard ({{% resource_link 95bd92a1-dd25-6118-5db7-e68fa6cc0b35 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -174,7 +175,7 @@ Write a one-page response to one or more of O'Hara's poems.
 
 ### Student Work
 
-O'Hara Response by Megan Sherkow ([PDF]({{< baseurl >}}/resources/ohara_response))
+O'Hara Response by Megan Sherkow ({{% resource_link 8dcdb78f-9a5b-fc9b-4cd5-ef4b7200789a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -194,9 +195,9 @@ O'Hara called this sort of poem "I do this, I do that." Drawing on your own expe
 
 ### Student Work
 
-O'Hara Imitation by Lauren Tashima ([PDF]({{< baseurl >}}/resources/ohara_imitate))
+O'Hara Imitation by Lauren Tashima ({{% resource_link fb452299-5b86-e710-d831-7b8308112203 "PDF" %}})
 
-O'Hara Imitation by Megan Sherkow ([PDF]({{< baseurl >}}/resources/ohara_imitate2))
+O'Hara Imitation by Megan Sherkow ({{% resource_link 2b63b818-3ad7-0454-514e-ddf0c70059b6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -216,7 +217,7 @@ Write a one-page response to one or more of Whalen's poems.
 
 ### Student Work
 
-Whalen Response by Megan Sherkow([PDF]({{< baseurl >}}/resources/whalen_response))
+Whalen Response by Megan Sherkow({{% resource_link 482cb99e-2eb4-ec04-ec24-9250bfdd2d36 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -236,9 +237,9 @@ Whalen's poems, all of which are dated at the end, read like diaries in which he
 
 ### Student Work
 
-Whalen imitation by C. Kiersten Pollard ([PDF]({{< baseurl >}}/resources/whalen_imitate))
+Whalen imitation by C. Kiersten Pollard ({{% resource_link 263cb8c5-669a-d58f-84fe-26a7c84d9694 "PDF" %}})
 
-Whalen imitations by Megan Sherkow ([PDF]({{< baseurl >}}/resources/whalen_imitate2))
+Whalen imitations by Megan Sherkow ({{% resource_link c704c876-b790-ec95-4745-ed07d3a42d2e "PDF" %}})
 
 
 {{< tdclose >}}
