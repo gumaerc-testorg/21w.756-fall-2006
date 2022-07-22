@@ -5,6 +5,7 @@ file: /courses/21w-756-writing-and-reading-poems-fall-2006/c704c876b790ec954745e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: whalen_imitate2.pdf
 uid: c704c876-b790-ec95-4745-ed07d3a42d2e
 ---
 Example of student work from the course.
-

@@ -6,6 +6,7 @@ file: /courses/21w-756-writing-and-reading-poems-fall-2006/8f791f1286b2bd0913cc9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: creeley_imitate.pdf
 uid: 8f791f12-86b2-bd09-13cc-95ebd91c51d6
 ---
 This resource features a poem The Newspaper. that is an imitation of Creeley's poems.
-

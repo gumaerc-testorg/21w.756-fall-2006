@@ -5,6 +5,7 @@ file: /courses/21w-756-writing-and-reading-poems-fall-2006/423a65202e5841dc7e830
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection

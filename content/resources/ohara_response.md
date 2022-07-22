@@ -5,6 +5,7 @@ file: /courses/21w-756-writing-and-reading-poems-fall-2006/8dcdb78f9a5bfc9b4cd5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: ohara_response.pdf
 uid: 8dcdb78f-9a5b-fc9b-4cd5-ef4b7200789a
 ---
 This resource contains students respons to the poem "The Day Lady Died."
-
