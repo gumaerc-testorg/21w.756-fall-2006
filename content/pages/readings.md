@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains course readings for the week topics of the course.
+learning_resource_types: []
+ocw_type: ''
 title: Readings
 uid: 756f1b5e-9fff-f657-6549-02f081a2a01f
 ---
