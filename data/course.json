@@ -34,7 +34,9 @@
   },
   "course_title": "Writing and Reading Poems",
   "course_description": "This course is an examination of the formal structural and textual variety in poetry. Students engage in extensive practice in the making of poems and the analysis of both students' manuscripts and 20th-century poetry. The course attempts to make relevant the traditional elements of poetry and their contemporary alternatives. There are weekly writing assignments, including some exercises in prosody.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.756",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "7bfc579a-2147-47d2-b47a-fc0c233da7aa",
+  "site_uid": "ae45fc64-9a3d-4340-9fd3-36c39309acd5",
+  "short_id": "21w.756-fall-2006",
   "title": "Course Metadata"
 }
