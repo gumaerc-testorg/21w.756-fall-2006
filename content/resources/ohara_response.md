@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains students respons to the poem "The Day Lady Died."
-file: /ol-ocw-studio-app/courses/21w-756-writing-and-reading-poems-fall-2006/8dcdb78f9a5bfc9b4cd5ef4b7200789a_ohara_response.pdf
+file: /courses/21w-756-writing-and-reading-poems-fall-2006/8dcdb78f9a5bfc9b4cd5ef4b7200789a_ohara_response.pdf
 file_size: 12844
 file_type: application/pdf
 learning_resource_types:
