@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /courses/21w-756-writing-and-reading-poems-fall-2006/c704c876b790ec954745ed07d3a42d2e_whalen_imitate2.pdf
+file: /ol-ocw-studio-app/courses/21w-756-writing-and-reading-poems-fall-2006/c704c876b790ec954745ed07d3a42d2e_whalen_imitate2.pdf
 file_size: 17822
 file_type: application/pdf
 learning_resource_types:

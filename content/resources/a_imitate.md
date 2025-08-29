@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21w-756-writing-and-reading-poems-fall-2006/cb69b2a95105ef94f0f10aac46360513_a_imitate.pdf
+file: /ol-ocw-studio-app/courses/21w-756-writing-and-reading-poems-fall-2006/cb69b2a95105ef94f0f10aac46360513_a_imitate.pdf
 file_size: 10480
 file_type: application/pdf
 learning_resource_types:
