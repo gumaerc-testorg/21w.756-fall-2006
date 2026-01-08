@@ -204,7 +204,7 @@ Guest Imitations
 
 Imitation due
 
-Poetry @ MIT: Poetry reading by Alice Notley{{% resource_link "864ea291-3d94-4c54-8489-9ff5d64a7c3b" "" %}}
+Poetry @ MIT: Poetry reading by Alice Notley[](http://www.poets.org/poet.php/prmPID/767)
 
 
 {{< tdclose >}}
@@ -234,7 +234,7 @@ Schuyler Imitations
 
 Imitation due
 
-Poetry @ MIT: Poetry reading by Clayton Eshleman{{% resource_link "273100cf-3e04-4649-abbc-5769b7e35bfc" "" %}}
+Poetry @ MIT: Poetry reading by Clayton Eshleman[](http://www.poets.org/poet.php/prmPID/263)
 
 
 {{< tdclose >}}
